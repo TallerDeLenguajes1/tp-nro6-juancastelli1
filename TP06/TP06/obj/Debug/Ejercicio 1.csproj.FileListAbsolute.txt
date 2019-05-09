@@ -1,0 +1,3 @@
+C:\Users\Alumno\Desktop\TP06\TP06\TP06\bin\Debug\TP06.exe.config
+C:\Users\Alumno\Desktop\TP06\TP06\TP06\obj\Debug\TP06.exe
+C:\Users\Alumno\Desktop\TP06\TP06\TP06\obj\Debug\TP06.pdb
