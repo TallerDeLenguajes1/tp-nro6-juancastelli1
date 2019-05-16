@@ -1,0 +1,7 @@
+C:\repositorio\tp-nro6-juancastelli1\TP06\Ejercicio 3\obj\Debug\Ejercicio 3.csprojAssemblyReference.cache
+C:\repositorio\tp-nro6-juancastelli1\TP06\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\repositorio\tp-nro6-juancastelli1\TP06\Ejercicio 3\bin\Debug\Ejercicio 3.exe.config
+C:\repositorio\tp-nro6-juancastelli1\TP06\Ejercicio 3\bin\Debug\Ejercicio 3.exe
+C:\repositorio\tp-nro6-juancastelli1\TP06\Ejercicio 3\bin\Debug\Ejercicio 3.pdb
+C:\repositorio\tp-nro6-juancastelli1\TP06\Ejercicio 3\obj\Debug\Ejercicio 3.exe
+C:\repositorio\tp-nro6-juancastelli1\TP06\Ejercicio 3\obj\Debug\Ejercicio 3.pdb
