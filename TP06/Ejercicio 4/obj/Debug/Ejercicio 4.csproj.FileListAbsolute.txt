@@ -1,0 +1,6 @@
+C:\Users\Alumno\Desktop\TP06\tp-nro6-juancastelli1\TP06\Ejercicio 4\bin\Debug\Ejercicio 4.exe.config
+C:\Users\Alumno\Desktop\TP06\tp-nro6-juancastelli1\TP06\Ejercicio 4\bin\Debug\Ejercicio 4.exe
+C:\Users\Alumno\Desktop\TP06\tp-nro6-juancastelli1\TP06\Ejercicio 4\bin\Debug\Ejercicio 4.pdb
+C:\Users\Alumno\Desktop\TP06\tp-nro6-juancastelli1\TP06\Ejercicio 4\obj\Debug\Ejercicio 4.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\TP06\tp-nro6-juancastelli1\TP06\Ejercicio 4\obj\Debug\Ejercicio 4.exe
+C:\Users\Alumno\Desktop\TP06\tp-nro6-juancastelli1\TP06\Ejercicio 4\obj\Debug\Ejercicio 4.pdb
